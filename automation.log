@@ -1,0 +1,83 @@
+04/07/2022 11:27:33 AM - LandingPage - INFO: Element Found
+04/07/2022 11:27:34 AM - LandingPage - INFO: Clicked on element with locator: //a[@id='nav-hamburger-menu'] locatorType: xpath
+04/07/2022 11:27:34 AM - LandingPage - INFO: Element Found
+04/07/2022 11:27:34 AM - LandingPage - INFO: Clicked on element with locator: //div[.='TV, Appliances, Electronics'] locatorType: xpath
+04/07/2022 11:27:34 AM - LandingPage - INFO: Element Found
+04/07/2022 11:27:34 AM - LandingPage - INFO: Clicked on element with locator: //a[@href='/gp/browse.html?node=1389396031&ref_=nav_em_sbc_tvelec_television_0_2_9_2'] locatorType: xpath
+04/07/2022 11:27:37 AM - TelevisionsPage - INFO: Element not found
+04/07/2022 11:27:37 AM - TelevisionsPage - INFO: Cannot click on the element with locator: //span[.='Samsung'] locatorType: xpath
+04/07/2022 11:27:41 AM - TelevisionsPage - INFO: Element not found
+04/07/2022 11:27:41 AM - TelevisionsPage - INFO: Element not found
+04/07/2022 11:27:44 AM - TelevisionsPage - INFO: Element not found
+04/07/2022 11:27:44 AM - TelevisionsPage - INFO: Cannot click on the element with locator: //div[@data-cel-widget = 'search_result_2'] locatorType: xpath
+04/07/2022 11:29:03 AM - LandingPage - INFO: Element Found
+04/07/2022 11:29:04 AM - LandingPage - INFO: Clicked on element with locator: //a[@id='nav-hamburger-menu'] locatorType: xpath
+04/07/2022 11:29:04 AM - LandingPage - INFO: Element Found
+04/07/2022 11:29:04 AM - LandingPage - INFO: Clicked on element with locator: //div[.='TV, Appliances, Electronics'] locatorType: xpath
+04/07/2022 11:29:04 AM - LandingPage - INFO: Element Found
+04/07/2022 11:29:06 AM - LandingPage - INFO: Clicked on element with locator: //a[@href='/gp/browse.html?node=1389396031&ref_=nav_em_sbc_tvelec_television_0_2_9_2'] locatorType: xpath
+04/07/2022 11:29:07 AM - TelevisionsPage - INFO: Element Found
+04/07/2022 11:29:08 AM - TelevisionsPage - INFO: Clicked on element with locator: //span[.='Samsung'] locatorType: xpath
+04/07/2022 11:29:09 AM - TelevisionsPage - INFO: Element Found
+04/07/2022 11:29:14 AM - TelevisionsPage - INFO: Element not found
+04/07/2022 11:29:14 AM - TelevisionsPage - INFO: Cannot click on the element with locator: //div[@data-cel-widget = 'search_result_2'] locatorType: xpath
+04/07/2022 11:32:19 AM - LandingPage - INFO: Element Found
+04/07/2022 11:32:20 AM - LandingPage - INFO: Clicked on element with locator: //a[@id='nav-hamburger-menu'] locatorType: xpath
+04/07/2022 11:32:20 AM - LandingPage - INFO: Element Found
+04/07/2022 11:32:20 AM - LandingPage - INFO: Clicked on element with locator: //div[.='TV, Appliances, Electronics'] locatorType: xpath
+04/07/2022 11:32:20 AM - LandingPage - INFO: Element Found
+04/07/2022 11:32:21 AM - LandingPage - INFO: Clicked on element with locator: //a[@href='/gp/browse.html?node=1389396031&ref_=nav_em_sbc_tvelec_television_0_2_9_2'] locatorType: xpath
+04/07/2022 11:32:24 AM - TelevisionsPage - INFO: Element Found
+04/07/2022 11:32:26 AM - TelevisionsPage - INFO: Clicked on element with locator: //span[.='Samsung'] locatorType: xpath
+04/07/2022 11:32:29 AM - TelevisionsPage - INFO: Element Found
+04/07/2022 11:32:35 AM - TelevisionsPage - INFO: Element Found
+04/07/2022 11:32:36 AM - TelevisionsPage - INFO: Clicked on element with locator: //div[@data-cel-widget = 'search_result_2'] locatorType: xpath
+04/07/2022 12:50:29 PM - LandingPage - INFO: Element Found
+04/07/2022 12:50:30 PM - LandingPage - INFO: Clicked on element with locator: //a[@id='nav-hamburger-menu'] locatorType: xpath
+04/07/2022 12:50:30 PM - LandingPage - INFO: Element Found
+04/07/2022 12:50:30 PM - LandingPage - INFO: Clicked on element with locator: //div[.='TV, Appliances, Electronics'] locatorType: xpath
+04/07/2022 12:50:30 PM - LandingPage - INFO: Element Found
+04/07/2022 12:50:30 PM - LandingPage - INFO: Clicked on element with locator: //a[@href='/gp/browse.html?node=1389396031&ref_=nav_em_sbc_tvelec_television_0_2_9_2'] locatorType: xpath
+04/07/2022 12:50:35 PM - TelevisionsPage - INFO: Element not found
+04/07/2022 12:50:35 PM - TelevisionsPage - INFO: Cannot click on the element with locator: //span[.='Samsung'] locatorType: xpath
+04/07/2022 12:50:43 PM - TelevisionsPage - INFO: Element not found
+04/07/2022 12:50:43 PM - TelevisionsPage - INFO: Element not found
+04/07/2022 12:50:50 PM - TelevisionsPage - INFO: Element not found
+04/07/2022 12:50:50 PM - TelevisionsPage - INFO: Cannot click on the element with locator: //div[@data-cel-widget = 'search_result_2'] locatorType: xpath
+04/07/2022 12:50:55 PM - ElectronicsPage - INFO: Element not found
+04/07/2022 12:52:19 PM - LandingPage - INFO: Element Found
+04/07/2022 12:52:20 PM - LandingPage - INFO: Clicked on element with locator: //a[@id='nav-hamburger-menu'] locatorType: xpath
+04/07/2022 12:52:20 PM - LandingPage - INFO: Element Found
+04/07/2022 12:52:20 PM - LandingPage - INFO: Clicked on element with locator: //div[.='TV, Appliances, Electronics'] locatorType: xpath
+04/07/2022 12:52:20 PM - LandingPage - INFO: Element Found
+04/07/2022 12:52:21 PM - LandingPage - INFO: Clicked on element with locator: //a[@href='/gp/browse.html?node=1389396031&ref_=nav_em_sbc_tvelec_television_0_2_9_2'] locatorType: xpath
+04/07/2022 12:52:22 PM - TelevisionsPage - INFO: Element Found
+04/07/2022 12:52:23 PM - TelevisionsPage - INFO: Clicked on element with locator: //span[.='Samsung'] locatorType: xpath
+04/07/2022 12:52:25 PM - TelevisionsPage - INFO: Element Found
+04/07/2022 12:52:29 PM - TelevisionsPage - INFO: Element Found
+04/07/2022 12:52:30 PM - TelevisionsPage - INFO: Clicked on element with locator: //div[@data-cel-widget = 'search_result_2'] locatorType: xpath
+04/07/2022 12:52:34 PM - ElectronicsPage - INFO: Element Found
+04/07/2022 12:57:09 PM - LandingPage - INFO: Element Found
+04/07/2022 12:57:10 PM - LandingPage - INFO: Clicked on element with locator: //a[@id='nav-hamburger-menu'] locatorType: xpath
+04/07/2022 12:57:10 PM - LandingPage - INFO: Element Found
+04/07/2022 12:57:10 PM - LandingPage - INFO: Clicked on element with locator: //div[.='TV, Appliances, Electronics'] locatorType: xpath
+04/07/2022 12:57:10 PM - LandingPage - INFO: Element Found
+04/07/2022 12:57:11 PM - LandingPage - INFO: Clicked on element with locator: //a[@href='/gp/browse.html?node=1389396031&ref_=nav_em_sbc_tvelec_television_0_2_9_2'] locatorType: xpath
+04/07/2022 12:57:11 PM - TelevisionsPage - INFO: Element Found
+04/07/2022 12:57:13 PM - TelevisionsPage - INFO: Clicked on element with locator: //span[.='Samsung'] locatorType: xpath
+04/07/2022 12:57:15 PM - TelevisionsPage - INFO: Element Found
+04/07/2022 12:57:17 PM - TelevisionsPage - INFO: Element Found
+04/07/2022 12:57:17 PM - TelevisionsPage - INFO: Clicked on element with locator: //div[@data-cel-widget = 'search_result_2'] locatorType: xpath
+04/07/2022 12:57:22 PM - ElectronicsPage - INFO: Element Found
+04/08/2022 03:56:56 PM - LandingPage - INFO: Element Found
+04/08/2022 03:56:57 PM - LandingPage - INFO: Clicked on element with locator: //a[@id='nav-hamburger-menu'] locatorType: xpath
+04/08/2022 03:56:57 PM - LandingPage - INFO: Element Found
+04/08/2022 03:56:57 PM - LandingPage - INFO: Clicked on element with locator: //div[.='TV, Appliances, Electronics'] locatorType: xpath
+04/08/2022 03:56:57 PM - LandingPage - INFO: Element Found
+04/08/2022 03:56:58 PM - LandingPage - INFO: Clicked on element with locator: //a[@href='/gp/browse.html?node=1389396031&ref_=nav_em_sbc_tvelec_television_0_2_9_2'] locatorType: xpath
+04/08/2022 03:56:59 PM - TelevisionsPage - INFO: Element Found
+04/08/2022 03:57:01 PM - TelevisionsPage - INFO: Clicked on element with locator: //span[.='Samsung'] locatorType: xpath
+04/08/2022 03:57:04 PM - TelevisionsPage - INFO: Element Found
+04/08/2022 03:57:08 PM - TelevisionsPage - INFO: Element Found
+04/08/2022 03:57:09 PM - TelevisionsPage - INFO: Clicked on element with locator: //div[@data-cel-widget = 'search_result_2'] locatorType: xpath
+04/08/2022 03:57:13 PM - ElectronicsPage - INFO: Element Found
